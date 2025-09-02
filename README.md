@@ -1,5 +1,3 @@
 ## Jesse Winton
 
-web pixels — nyc
-
-working on [rpshr](https://rpshr.app)
+senior frontend engineer at [cosmos](https://cosmos.so)
